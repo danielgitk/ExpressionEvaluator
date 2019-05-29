@@ -2,4 +2,4 @@
 
 
 done using interpreter pattern
-run the mainApplicationTest.java file
+>>run the mainApplicationTest.java file
